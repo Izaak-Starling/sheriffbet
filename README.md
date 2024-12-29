@@ -1,0 +1,2 @@
+# sheriffbet
+Degenerate gambling app
